@@ -1,5 +1,5 @@
 # Logger
-Write to files your logs
+Logger is writing your logs into the files 
 
 If you want read log files from the mobile using standart app Files  or by connecting mobile phone to iTunes, you need to add to Key into your "Info.plist"
 
